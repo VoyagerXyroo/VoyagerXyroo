@@ -1,6 +1,6 @@
 # 🌐 VoyagerXyroo | Frontend Craftsman
 
-![Profile Banner](/frontend-banner.png)
+![Profile Banner](arya.jpg)
 
 ## 👨‍💻 Profil Pengembang
 
