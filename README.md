@@ -1,4 +1,4 @@
-# 🌐 VoyagerXyroo | Frontend Craftsman
+# 🌐 VoyagerXyroo | Frontend Developer
 
 ![Profile Banner](arya.jpg)
 
