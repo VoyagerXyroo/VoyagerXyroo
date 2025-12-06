@@ -1,6 +1,6 @@
 # 🌐 VoyagerXyroo | Frontend Developer
 
-![Profile Banner](https://raw.githubusercontent.com/VoyagerXyroo/VoyagerXyroo/refs/heads/main/sat.jpeg)
+![Profile Banner](kkk.jpeg)
 
 ## 👨‍💻 Profil Pengembang
 
