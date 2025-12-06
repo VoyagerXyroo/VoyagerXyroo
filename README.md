@@ -1,6 +1,6 @@
 # 🌐 VoyagerXyroo | Frontend Developer
 
-![Profile Banner](arya-jack.jpeg)
+![Profile Banner]([arya-jack.jpeg](https://raw.githubusercontent.com/VoyagerXyroo/VoyagerXyroo/refs/heads/main/sat.jpeg))
 
 ## 👨‍💻 Profil Pengembang
 
