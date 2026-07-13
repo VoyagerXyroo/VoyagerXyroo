@@ -1,6 +1,6 @@
 # 🌐 VoyagerXyroo | Frontend Developer
 
-![Profile Banner](chad.jpeg)
+![Profile Banner](image.jpg)
 
 ## 👨‍💻 Profil Pengembang
 
